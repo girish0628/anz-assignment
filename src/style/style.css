@@ -1,0 +1,22 @@
+.container-fluid{
+  background-color: #f8f9fc;
+  width: 100%;
+  overflow-x: hidden;
+}
+.card-body, .card-title{
+  text-align: center;
+}
+.product-img{
+  width: 60px;
+  height: 110px;
+  margin: 0.5rem 4.0rem;
+}
+.btn-add-cart{
+  border-radius: 21px;
+  font-size: 14px;
+}
+.btn-remove-cart{
+  border-radius: 21px;
+  font-size: 14px;
+  float: right;
+}

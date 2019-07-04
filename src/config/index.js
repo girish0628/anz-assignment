@@ -1,0 +1,1 @@
+export const BASE_URL = "/services-json/"; //Base url constant
